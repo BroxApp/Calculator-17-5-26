@@ -1,3 +1,4 @@
+![Calculator Preview](calculator-17-5-26.png)
 # Simple Web Calculator
 
 A functional and responsive web-based calculator that allows users to perform basic arithmetic operations with a clean, modern interface.
