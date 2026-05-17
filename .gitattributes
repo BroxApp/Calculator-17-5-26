@@ -1,0 +1,2 @@
+*.html linguist-documentation=false linguist-vendored=true
+*.css linguist-documentation=false linguist-vendored=true
